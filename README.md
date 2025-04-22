@@ -69,11 +69,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokhanforyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gokhanforyo&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![GokhanOzkaya's Stats](https://github-readme-stats.vercel.app/api?username=GokhanOzkaya&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![GokhanOzkaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GokhanOzkaya&theme=blueberry&hide_border=true)
+![GokhanOzkaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GokhanOzkaya&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
