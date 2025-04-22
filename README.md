@@ -1,6 +1,7 @@
-<div style="width: 100%; overflow: hidden; border-radius: 10px; margin-bottom: 20px;">
-  <img src="https://github.blog/wp-content/uploads/2020/02/github-mobile-1200-630.png?w=1200" alt="Banner" style="width: 100%; height: 100px; object-fit:none; object-position: center top;" />
+<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://github.blog/wp-content/uploads/2020/02/github-mobile-1200-630.png?w=1200" alt="Banner" style="width: 100%; min-height: 250px; object-fit: cover; object-position: center center;" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Gokhan OZKAYA</h1>
 <h3 align="center">💻 .NET & 📱 Mobile Developer | Passionate about building modern, scalable mobile apps</h3>
